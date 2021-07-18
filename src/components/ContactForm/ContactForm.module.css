@@ -1,12 +1,10 @@
 .buttonForm {
-    /* margin-top: 20px; */
     margin-top: 10px;
     background-color: #005A9E;
     color: #fff;
     padding: 5px 8px;
     font-size: 16px;
     border-radius: 5px;
-    /* outline: none; */
     border: none;
 }
 
@@ -20,23 +18,13 @@ h3 {
 }
 
 input {
-    /* background-color: red; */
     border-radius: 5px;
     border-color: #E6E6E6;
     padding: 2px 6px;
     border-style: double;
-    /* text-size-adjust: 16px; */
-    /* border: none; */
-    /* outline: none; */
-    /* outline: none; */
 }
 
-/* input:active {
-    border-color: blue;
-} */
-
 input:focus {   
-    /* border-bottom-color: #005A9E; */
     border-color: #005A9E;
     outline: #005A9E;
 }
