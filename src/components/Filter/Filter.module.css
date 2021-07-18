@@ -1,0 +1,16 @@
+.filter {
+    margin: 0 auto 20px;
+    max-width: 300px;
+    background-color: F2F2F2;
+    /* background-color: lightg ray; */
+    border: 2px solid #E6E6E6;
+    padding: 10px;
+    border-radius: 10px;
+    /* padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px; */
+}
+
+p {
+    /* padding-top: 3px; */
+}
