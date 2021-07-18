@@ -32,7 +32,6 @@ export default class ContactForm extends Component {
         if (!contactInState && name && number) {
             onAddContact(name, number);
             this.setState(INITIAL_STATE);
-            return
         }
     }
     
